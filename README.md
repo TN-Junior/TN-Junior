@@ -1,49 +1,36 @@
-<h1 align="center">Hello, I'm Fernanda Kipper 👋</h1>
+<h1 align="center">Hello, I'm Tary Junior 👋</h1>
 
 <p align="center">
   <em>Software Engineer • Tech Enthusiast • ML Engineer</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
+  <img src="https://github.com/tnrjrdev/tnrjrdev/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
 </p>
 
 ---
 
 <p align="center">
-  I'm passionate about technology, education, and creativity.  
-  Here you’ll find projects, tutorials, and my experiments with AI, Java, Cloud, and more :)
+  Building, learning, and experimenting with software. Projects and ideas around Java, Cloud, AI, and software engineering  :)
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fernanda-kipper-5958a61a9/">
+  <a href="https://www.linkedin.com/in/tary-nascimento">
     <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
-  <a href="https://fernandakipper.com/">
+  <a href="">
     <img src="https://img.shields.io/badge/-Website-00AB33?style=flat-square&logo=Google-Chrome&logoColor=white">
   </a>
-  <a href="mailto:contato@fernandakipper.com">
-    <img src="https://img.shields.io/badge/-contato@fernandakipper.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  <a href="mailto:tary.junior47@gmail.com">
+    <img src="https://img.shields.io/badge/-tary.junior47@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 </p>
 
+---
+[![My Skills](https://skillicons.dev/icons?i=java,python,kotlin,spring,kafka,aws,gcp,postgresql,mysql,docker,mongodb,terraform,javascript,typescript,angular)](https://skillicons.dev)
 ---
 
 ### 🧠 About Me
-
-- 📹 Share some cool content on my [YouTube](https://www.youtube.com/@kipperdev) and [Instagram](https://www.instagram.com/kipper.dev/)
-- 🧑‍🏫 Bachelor's in Computer Science
-- 🏆 1x Microsoft MVP in Developer Technologies
-
-<p align="center">
-  <em>Keep building. One commit at a time.</em> 🟩
-</p>
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=java,python,kotlin,spring,kafka,aws,gcp,postgresql,mysql,docker,mongodb,terraform,javascript,typescript,angular)](https://skillicons.dev)
-
----
 
 <p>🎓 Graduated in Internet Systems at <a href="https://portal.unicap.br/" target="_blank">Unicap</a></p>
 
@@ -55,4 +42,11 @@
   <a href="https://www.instagram.com/tary.dev/" target="_blank">Instagram</a> and
   <a href="https://www.linkedin.com/in/tary-nascimento/" target="_blank">LinkedIn</a>
 </p>
+
+
+
+
+---
+
+
 
