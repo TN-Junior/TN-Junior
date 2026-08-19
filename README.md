@@ -8,23 +8,19 @@
 
 ---
 
-<p>🎓 Graduated in Internet Systems at <a href="https://portal.unicap.br/" target="blank_">Unicap</a></p>
-<p>🎥 Tech content creator. I share informative content at my <a href="https://www.instagram.com/tary.dev/" target="_blank">Instagram</a> ,  and <a href="https://www.linkedin.com/in/tary-nascimento/" target="_blank">LinkedIn</a> </p>
+<p>🎓 Graduated in Internet Systems at <a href="https://portal.unicap.br/" target="_blank">Unicap</a></p>
+
+<p>🌎 English Level: <strong>C1 Advanced</strong> — EF SET Certificate
+  <a href="https://cert.efset.org/pt/1SZDVy" target="_blank">View Certificate</a>
+</p>
+
+<p>🎥 Tech content creator. I share informative content at my 
+  <a href="https://www.instagram.com/tary.dev/" target="_blank">Instagram</a> and
+  <a href="https://www.linkedin.com/in/tary-nascimento/" target="_blank">LinkedIn</a>
+</p>
+
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,kotlin,spring,kafka,aws,gcp,postgresql,mysql,docker,mongodb,terraform,javascript,typescript,angular)](https://skillicons.dev)
+
 ---
-
-
-### 🟩 Latest Commit Energy
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tnrjrdev&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
-</p>
-
-<p align="center">
-  <em>Keep building. One commit at a time.</em> 🟩
-</p>
-
-
-
